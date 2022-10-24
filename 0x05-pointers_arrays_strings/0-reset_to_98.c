@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * reset_to_98 - takes the pointer and updates the valu
- * 
+ * reset_to_98 - takes the pointer and updates the value
+ *
  * e@n: int to check
  *
  * Owned By Bwave/Bright
