@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * _power_incursion: power
+ * _power_recursion: power
  * @x: int
  * @y: int
  *
  * Return: int
  */
-int _pow_incursion(int x, int y)
+int _pow_recursion(int x, int y)
 {
 	if (y < 0)
 	{
