@@ -6,7 +6,7 @@
  *
  * Return: int
  */
-int _power_incursion(int x, int y)
+int _pow_incursion(int x, int y)
 {
 	if (y < 0)
 	{
