@@ -3,10 +3,10 @@
 /**
  * main - prints the min number of coins to make change
  * for an amount of money
- * @argv: argument 
+ * @argv: argument
  * @argc: argument count
  *
- * return: 0
+ * Return: 0
  */
 int main(int argc, char **argv)
 {
