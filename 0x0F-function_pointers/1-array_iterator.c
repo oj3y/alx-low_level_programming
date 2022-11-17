@@ -22,4 +22,4 @@ void arry_iterator(int *array, size_t size, void (*action)(int))
 			i++;
 		}
 	}
-}
+}                                                                                                                           
