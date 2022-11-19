@@ -4,7 +4,7 @@
  * @n: number of parameter
  * @separator: separator between two numbers
  *
- * Return: always 0
+ * Return: 0
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
@@ -14,7 +14,7 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	va_start(ap, n);
 
 	if (separator == NULL)
-		seperator = "";
+		separator = "";
 
 	for (i = 0; i < n; i++)
 	{
